@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "904856183776",
+    "firebase_url": "https://votingandpolling-85bba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "votingandpolling-85bba",
+    "storage_bucket": "votingandpolling-85bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904856183776:android:a09a8ba17bc0315996c185",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CMT_Biz4yzCwGE3wQwcgBaQgyUvBSzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904856183776:android:ec851ea4c25a825996c185",
+        "android_client_info": {
+          "package_name": "com.example.pollinguserapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CMT_Biz4yzCwGE3wQwcgBaQgyUvBSzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

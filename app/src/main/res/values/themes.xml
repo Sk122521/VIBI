@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:navigationBarColor">@color/cardview_light_background</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+    <!-- res/values/styles.xml -->
+    <style name="CustomSearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Customize search view text color -->
+        <item name="android:editTextColor">#000000</item>
+        <!-- Customize search view hint color -->
+        <item name="android:textColorHint">#808080</item>
+        <!-- Customize search view search icon color -->
+        <item name="android:searchIcon">@drawable/ic_search_custom</item>
+        <!-- Customize close button icon color -->
+        <item name="android:closeIcon">@drawable/ic_close_custom</item>
+        <!-- Customize search view background color -->
+        <!-- Customize search view edit text background color -->
+        <item name="android:queryBackground">@android:color/transparent</item>
+    </style>
+
+</resources>

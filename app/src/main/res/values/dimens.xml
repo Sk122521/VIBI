@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="notch_padding_start">16dp</dimen>
+
+    <!-- Define dimension for padding to be applied to the end (right for LTR, left for RTL) of the view to accommodate the notch area -->
+    <dimen name="notch_padding_end">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

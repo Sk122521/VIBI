@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#3C82FB"
+    android:backgroundTint="#3C82FB"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image_categories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:elevation="5dp"
+        app:civ_circle_background_color="@color/cardview_light_background"
+        app:civ_border_width="1dp"
+        app:civ_border_color="@color/cardview_light_background"
+        app:civ_border_overlay="true"/>
+<!--    <com.google.android.material.card.MaterialCardView-->
+<!--        android:id="@+id/cardView"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:elevation="10dp"-->
+<!--        android:background="@color/cardview_light_background"-->
+<!--        android:backgroundTint="@color/cardview_light_background"-->
+<!--        android:clickable="true"-->
+<!--        android:focusable="true"-->
+<!--        app:rippleColor="@color/black"-->
+<!--        app:cardUseCompatPadding="true"-->
+<!--        app:cardCornerRadius="20dp">-->
+
+
+<!--    </com.google.android.material.card.MaterialCardView>-->
+</LinearLayout>
